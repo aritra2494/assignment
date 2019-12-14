@@ -1,0 +1,14 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "gzip, deflate", 
+    "Cache-Control": "no-cache", 
+    "Content-Type": "multipart/form-data; boundary=--------------------------870422324712747361760629", 
+    "Host": "httpbin.org", 
+    "Postman-Token": "269b2582-7eda-4d66-b9eb-afa051fbe923", 
+    "User-Agent": "PostmanRuntime/7.20.1"
+  }, 
+  "origin": "202.142.107.51, 202.142.107.51", 
+  "url": "https://httpbin.org/get"
+}
